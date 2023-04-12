@@ -11,9 +11,6 @@ python -m venv venv
 # Activate the virtual environment
 source venv/bin/activate
 
-# Install pip-tools
-python -m pip install pip-tools
-
-# Install dependencies
-pip-sync
+# Install jupyter
+python -m pip install jupyter
 ```
