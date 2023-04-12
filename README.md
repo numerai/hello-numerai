@@ -1,8 +1,18 @@
-# Numerai Example Repo
+# Numerai Example Notebook
 
-Welcome to the Numerai!
+Welcome to the [Numerai](https://numer.ai/) data science tournament! If you are just getting started, this notebook is for you.
 
-## Setup
+In this notebook we will go through
+1. The Dataset: how to download it and understanding its basic structure
+2. Modelling: how to train our first model and evaluate its performance  
+3. Submissions: how to upload our first model and start competing in the tournament
+
+
+## Open on Google Collab (recommended)
+
+Open 
+
+## Optional setup for local development
 
 ```
 # Create a new virtual environment
