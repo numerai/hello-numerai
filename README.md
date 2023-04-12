@@ -2,8 +2,6 @@
 
 Welcome to the Numerai!
 
-This example repo will
-
 ## Setup
 
 ```
@@ -19,11 +17,3 @@ python -m pip install pip-tools
 # Install dependencies
 pip-sync
 ```
-
-## Train model
-
-Open the `train.ipynb` notebook and run all the cells
-
-## Deploy model
-
-Run deploy.sh and follow the
