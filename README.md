@@ -10,7 +10,7 @@ In this notebook we will go through
 
 ## Open notebook on Google Colab (recommended)
 
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai">
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/example_notebook.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
