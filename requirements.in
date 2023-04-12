@@ -1,0 +1,8 @@
+pandas 
+numpy 
+lightgbm
+jupyter
+pyarrow
+python-dotenv
+matplotlib
+git+https://github.com/numerai/numerapi@chris/compute-lite-beta
