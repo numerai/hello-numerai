@@ -8,9 +8,11 @@ In this notebook we will go through
 3. Submissions: how to upload our first model and start competing in the tournament
 
 
-## Open on Google Collab (recommended)
+## Open notebook on Google Colab (recommended)
 
-Open 
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Optional setup for local development
 
