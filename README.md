@@ -5,7 +5,7 @@ Welcome to the [Numerai](https://numer.ai/) data science tournament!
 If you are just getting started, then these notebooks are for you.
 
 ## Hello Numerai 
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/example_notebook.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/hello_numerai.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -15,18 +15,18 @@ In this notebook we will go through the basics of the tournament
 3. Submissions: how to upload our model to make live submissions
 
 ## Model Diagnostics 
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/example_notebook.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/model_diagnostics.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 In this notebook we will learn how to evaluate and diagnose model performance
-1. Validation: how to evaluate model performance
+1. Valiation: setting up our validation harness with validation data 
 2. Performance: computing Correlation, Sharpe, and Max Drawdown 
-3. Risk: understanding Feature Exposure and Neutralization 
+3. Risk: understanding Feature Exposure and Feature Neutralization 
 
 
 ## Advanced Concepts 
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/example_notebook.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/advanced_concepts.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
