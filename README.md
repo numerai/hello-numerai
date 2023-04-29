@@ -30,30 +30,30 @@ In this notebook we will learn how to evaluate and diagnose model performance. W
 2. Risk: measure model risk with `Sharpe`, `Max Drawdown`, `Feature Exposure` 
 3. Experiment: use `Feature Neutralization` to reduce risk and improve performance
 
-## Advanced Modeling
+## Advanced Concepts
 <a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/advanced_concepts.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-In this notebook we will go deep on advanced modeling concepts. We will go over common pitfalls and best practices that are idiosyncratic to quant finance and Numerai. 
+In this notebook we will go deep on advanced modeling concepts. We will go over common pitfalls and best practices when apply machine learning to Numerai's dataset. 
 
 1. Risky Features: measuring feature risk and identifying risky features    
 2. Auxilary Targets: what are auxiliary targets and how to use them 
 3. Overlapping Eras: the problem with leakage and how to fix it with embargos
 
-## Submissions & Scoring
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/advanced_concepts.ipynb">
+## Tournament Structure
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/submissions_scoring.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-In this notebook we will learn about the core submission & scoring systems of Numerai.
+In this notebook we will learn about the core tournament structure of Numerai.   
 
-1. Rounds: the lifecycle of a round 
-2. Scores:  
-
+1. Rounds: the lifecycle of a round   
+2. Scores: `True Contribution`  
+3. Compute:   
 
 ## Staking & Payouts
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/advanced_concepts.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/stkaing_payouts.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
