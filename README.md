@@ -46,8 +46,6 @@ In this notebook we will go deep on advanced modeling concepts. We will go over 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# Tournament Structure
-
 In this notebook we will learn about the structure of the tournament. Think of this as the official rules of the game.   
 
 1. Rounds: the lifecyle and schedule of live tournament rounds
