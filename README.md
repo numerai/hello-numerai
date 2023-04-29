@@ -42,23 +42,16 @@ In this notebook we will go deep on advanced modeling concepts. We will go over 
 3. Overlapping Eras: the problem with leakage and how to fix it with embargos
 
 ## Tournament Structure
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/submissions_scoring.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/tournament_structure.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-In this notebook we will learn about the core tournament structure of Numerai.   
+# Tournament Structure
 
-1. Rounds: the lifecycle of a round   
-2. Scores: `True Contribution`  
-3. Compute:   
+In this notebook we will learn about the structure of the tournament. Think of this as the official rules of the game.   
 
-## Staking & Payouts
-<a target="_blank" href="https://colab.research.google.com/github/numerai/hello-numerai/blob/master/stkaing_payouts.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-In this notebook we will learn about the core staking & payout systems of Numerai.
-
-1. NMR: what is NMR 
-2. Staking: `payout factor`, `multipliers`
-3. Payouts: compounding 
+1. Rounds: the lifecyle and schedule of live tournament rounds
+2. Submissions: submission window, late & queued submissions
+3. Scoring: daily score updates, live performance & reputation  
+4. Staking: payout function, at-risk, payout factor, score multipliers   
+5. Payouts: compounding, returns
