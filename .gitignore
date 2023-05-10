@@ -3,3 +3,4 @@ venv
 *.json
 *.pkl
 *.txt
+**/.ipynb_checkpoints/
